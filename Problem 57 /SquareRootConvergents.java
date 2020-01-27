@@ -2,7 +2,6 @@ import java.math.BigInteger;
 
 public class SquareRootConvergents {
 
-
     public static void main(String[] args) {
 
         int count = 0;
