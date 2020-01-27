@@ -11,7 +11,7 @@ public class SquareRootConvergents {
 
         for (int i = 1; i < 1000; i++) {
 
-            // This ia all about pattern matching
+            // This is all about pattern matching
             // numerator = numerator + 2 * denominator
             // denominator = numerator - denominator
             numerator = numerator.add(BigInteger.valueOf(2L).multiply(denominator));
